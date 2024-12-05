@@ -9,6 +9,22 @@
 | Organization goals | Laptop support and accessibility is a strategic priority for the FreeBSD Foundation to accelerate developer and corporate adoption, through: <br/> <ul><li>Improving endpoint security for organizational users</li> <li>Improving the FreeBSD Committer experience for the project community and also Vendors whose products are based on FreeBSD.</li><li> Reducing the barrier to FreeBSD adoption by users – individual,  corporate, and contributors.</li> |
 | Output | Updates to FreeBSD 14.x and/or above that deliver contemporary WiFi, full audio, modern suspend and resume, improved graphics, Bluetooth, and other identified features.  Documentation, and how-to guides for the new functionality.  |
 
+# Quick links
+
+[Project Roadmap](https://github.com/orgs/FreeBSDFoundation/projects/1/views/4)
+
+[This Iteration's work](https://github.com/orgs/FreeBSDFoundation/projects/1/views/1)
+
+[Next Iteration's work](https://github.com/orgs/FreeBSDFoundation/projects/1/views/2)
+
+[Explore scope by area of functionality](https://github.com/orgs/FreeBSDFoundation/projects/1/views/3)
+
+[Laptop and Desktop Working Group](https://wiki.freebsd.org/LaptopDesktopWorkingGroup)
+
+[Join the Desktop mailing list](https://lists.freebsd.org/subscription/freebsd-desktop)
+
+[Foundation blog about the Laptop Project](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
+
 # FAQs
 
 ### How much is being invested in this work?
@@ -60,3 +76,6 @@ There are several ways to keep yourself in the loop.
 1. Attend the Laptop and Desktop Working Group meetings. Work done as part of the program will be shared in these calls (these will also be recorded).   
 2. Check out the public roadmap on GitHub. We are developing a practice of keeping the program work up to date and available for anyone to see.  
 3. Sign up to the FreeBSD Foundation newsletter. All announcements about the program will be included in our updates.
+
+### How is GitHub being used by the Foundation for this project?
+We are using Github as a tool for capturing the roadmap and progress on work items at a high-level. We are not using it for source code management. The repo and project are read-only for the public.
