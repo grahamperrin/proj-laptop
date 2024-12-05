@@ -39,7 +39,7 @@ The program will start in Q4, 2024 and will likely run for 1-2 years.
 
 The high-level scope was outlined by the FreeBSD Foundation with input from the community, including users such as program co-funder, Quantum Leap Research, and from laptop vendors including Dell, AMD and Framework. 
 
-What exactly is covered in the planned work?   
+### What exactly is covered in the planned work?   
 The scope will be unpacked month by month as we make progress, focusing on where the most high-value functionality can be achieved with the resources and support that we have available. Our roadmap will contain work items that are candidates for future months. 
 
 ### Who will be doing the work?
