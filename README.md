@@ -73,7 +73,7 @@ It’s worth pointing out that this isn’t a full Agile process, more of a cons
 
 There are several ways to keep yourself in the loop. 
 
-1. Read the [monthly updates](https://github.com/FreeBSDFoundation/proj-laptop/blob/main/monthly-updates) that are posted into this repo.
+1. Read the [monthly updates](monthly-updates) that are posted into this repo.
 2. Attend the Laptop and Desktop Working Group meetings. Work done as part of the program will be shared in these calls (these will also be recorded).   
 3. Check out the public roadmap on GitHub. We are developing a practice of keeping the program work up to date and available for anyone to see.
 4. Sign up to the [Desktop mailing list](https://lists.freebsd.org/subscription/freebsd-desktop).
