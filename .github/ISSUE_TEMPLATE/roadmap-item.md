@@ -9,7 +9,7 @@ assignees: ''
 
 ## User Story
 As a [user] I want to be able to [do something] so that I can [achieve a goal].
-[More info in User Stories](https://www.mountaingoatsoftware.com/agile/user-stories)
+[More info on User Stories](https://www.mountaingoatsoftware.com/agile/user-stories)
 
 ## Implementation Notes
 Add information about how you plan to tackle the work, any WIP, standards or technology.
