@@ -42,6 +42,9 @@ The high-level scope was outlined by the FreeBSD Foundation with input from the 
 ### What exactly is covered in the planned work?   
 The scope will be unpacked month by month as we make progress, focusing on where the most high-value functionality can be achieved with the resources and support that we have available. Our roadmap will contain work items that are candidates for future months. 
 
+### Are the dates on the roadmap guaranteed?
+No, these are high-level placeholders to help us visualise our intended order of work and to help share our plans with the community. The actual date of delivery on any item will be subject to change based on project progress and other factors. 
+
 ### Who will be doing the work?
 
 The Foundation will be managing staff and a group of contracted FreeBSD developers to work on different functional areas to deliver regular updates to the laptop experience. 
