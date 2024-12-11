@@ -19,7 +19,7 @@
 
 [Explore scope by area of functionality](https://github.com/orgs/FreeBSDFoundation/projects/1/views/3)
 
-[Laptop and Desktop Working Group](https://wiki.freebsd.org/LaptopDesktopWorkingGroup)
+[Laptop and Desktop Working Group - (community owned)](https://wiki.freebsd.org/LaptopDesktopWorkingGroup)
 
 [Join the Desktop mailing list](https://lists.freebsd.org/subscription/freebsd-desktop)
 
@@ -48,7 +48,7 @@ The Foundation will be managing staff and a group of contracted FreeBSD develope
 
 ### How can I share my views on what would make the laptop experience better?
 
-The Foundation is supporting the creation of a [Laptop and Desktop Working Group](https://wiki.freebsd.org/LaptopDesktopWorkingGroup) in the FreeBSD project community where all interested parties can share their experiences, work in progress, and offer and receive help and support. More details to follow. ([Join the Desktop mailing list](https://lists.freebsd.org/subscription/freebsd-desktop) to be notified when this group is started.)
+The FreeBSD community hosts a [Laptop and Desktop Working Group](https://wiki.freebsd.org/LaptopDesktopWorkingGroup) where all interested parties can share their experiences, work in progress, and offer and receive help and support. You can also [join the Desktop mailing list](https://lists.freebsd.org/subscription/freebsd-desktop) for more general updates. At present there is not a dedicated Laptop mailing list, this may change if there is community support for it. 
 
 ### Are desktop users being considered as part of this work?
 
@@ -73,9 +73,11 @@ It’s worth pointing out that this isn’t a full Agile process, more of a cons
 
 There are several ways to keep yourself in the loop. 
 
-1. Attend the Laptop and Desktop Working Group meetings. Work done as part of the program will be shared in these calls (these will also be recorded).   
-2. Check out the public roadmap on GitHub. We are developing a practice of keeping the program work up to date and available for anyone to see.  
-3. Sign up to the FreeBSD Foundation newsletter. All announcements about the program will be included in our updates.
+1. Read the [monthly reports](https://github.com/FreeBSDFoundation/proj-laptop/blob/main/monthly-reports) that are posted into this repo.
+2. Attend the Laptop and Desktop Working Group meetings. Work done as part of the program will be shared in these calls (these will also be recorded).   
+3. Check out the public roadmap on GitHub. We are developing a practice of keeping the program work up to date and available for anyone to see.
+4. Sign up to the [Desktop mailing list](https://lists.freebsd.org/subscription/freebsd-desktop).
+5. Sign up to the FreeBSD Foundation newsletter. All announcements about the program will be included in our updates.
 
-### How is GitHub being used by the Foundation for this project?
-We are using Github as a tool for capturing the roadmap and progress on work items at a high-level. We are not using it for source code management. The repo and project are read-only for the public.
+### How is this repo being used by the Foundation for this project?
+We are using this repo and associated GH project board as tools for capturing the roadmap and progress on work items at a high-level. We are not using it for source code management. The repo and project are read-only for the public.
