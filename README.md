@@ -53,6 +53,9 @@ The Foundation will be managing staff and a group of contracted FreeBSD develope
 
 The FreeBSD community hosts a [Laptop and Desktop Working Group](https://wiki.freebsd.org/LaptopDesktopWorkingGroup) where all interested parties can share their experiences, work in progress, and offer and receive help and support. You can also [join the Desktop mailing list](https://lists.freebsd.org/subscription/freebsd-desktop) for more general updates. At present there is not a dedicated Laptop mailing list, this may change if there is community support for it. 
 
+### Who is the target user for the functionality being delivered?
+Our target user is developers. However, we hope to be able to improve the experience for all users by reducing the need to "go under the hood" to set up, manage, and use FreeBSD on a laptop.
+
 ### Are desktop users being considered as part of this work?
 
 Broadly speaking this work is focused on laptop user experience. However, many of the areas that apply to laptops will also benefit the desktop user experience. We recommend engaging with the Laptop and Desktop Working Group to advocate for any desktop-specific work items. 
