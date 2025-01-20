@@ -1,4 +1,11 @@
-# Window environments
+# Desktop environments
+
+## Committed
+
+* KDE with Wayland
+
+## Candidates
+
 Development of this list is being tracked in https://github.com/FreeBSDFoundation/proj-laptop/issues/28
 
 Potential options include:
