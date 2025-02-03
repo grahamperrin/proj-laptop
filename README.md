@@ -1,5 +1,5 @@
-# The FreeBSD Foundation's Laptop Project
-| Program Name | Laptop Support and Usability Improvements |
+# The FreeBSD Foundation's *Laptop Support and Usability Project*
+| Program Name | Laptop Support and Usability |
 | :---- | :---- |
 | Funding Body | FreeBSD Foundation, and Quantum Leap Research |
 | Funding Status | Approved on September 27, 2024 |
