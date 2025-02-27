@@ -13,9 +13,9 @@
 
 [Project Roadmap](https://github.com/orgs/FreeBSDFoundation/projects/1/views/4)
 
-[This Iteration's work](https://github.com/orgs/FreeBSDFoundation/projects/1/views/1)
+[Work in Progress](https://github.com/orgs/FreeBSDFoundation/projects/1/views/8)
 
-[Next Iteration's work](https://github.com/orgs/FreeBSDFoundation/projects/1/views/2)
+[Work Done](https://github.com/orgs/FreeBSDFoundation/projects/1/views/9)
 
 [Explore scope by area of functionality](https://github.com/orgs/FreeBSDFoundation/projects/1/views/3)
 
