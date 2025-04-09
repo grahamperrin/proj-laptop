@@ -25,6 +25,27 @@
 
 [Foundation blog about the Laptop Project](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
 
+# Discussion threads
+We have created discussion threads in the Desktop mailing list for key areas of the project: 
+
+[[FF-laptop-LSU] Power Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005616.html)
+
+[[FF-laptop-LSU] Hardware Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005617.html)
+
+[[FF-laptop-LSU] Audio Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005618.html)
+
+[[FF-laptop-LSU] Graphics Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005619.html)
+
+[[FF-laptop-LSU] WiFi Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005620.html)
+
+[[FF-laptop-LSU] System Management Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005621.html)
+
+[[FF-laptop-LSU] Security Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005622.html)
+
+[[FF-laptop-LSU] User Testing Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005625.html)
+
+Please come and join the discussion!
+
 # FAQs
 
 ### How much is being invested in this work?
