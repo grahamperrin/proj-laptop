@@ -9,44 +9,36 @@
 | Organization goals | Laptop support and accessibility is a strategic priority for the FreeBSD Foundation to accelerate developer and corporate adoption, through: <br/> <ul><li>Improving endpoint security for organizational users</li> <li>Improving the FreeBSD Committer experience for the project community and also Vendors whose products are based on FreeBSD.</li><li> Reducing the barrier to FreeBSD adoption by users – individual,  corporate, and contributors.</li> |
 | Output | Updates to FreeBSD 14.x and/or above that deliver contemporary WiFi, full audio, modern suspend and resume, improved graphics, Bluetooth, and other identified features.  Documentation, and how-to guides for the new functionality.  |
 
-# Quick links
+## Quick links
 
-[Project Roadmap](https://github.com/orgs/FreeBSDFoundation/projects/1/views/4)
+[September 2024 blog post](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/) about the Project.
 
-[Work in Progress](https://github.com/orgs/FreeBSDFoundation/projects/1/views/8)
+Organizational aspects: 
 
-[Work Done](https://github.com/orgs/FreeBSDFoundation/projects/1/views/9)
+- [Nine key areas](https://github.com/orgs/FreeBSDFoundation/projects/1/views/3)
+- [Work in progress](https://github.com/orgs/FreeBSDFoundation/projects/1/views/8)
+- [Current iteration](https://github.com/orgs/FreeBSDFoundation/projects/1/views/1) &ndash; monthly
+- [Entire roadmap](https://github.com/orgs/FreeBSDFoundation/projects/1/views/4) &ndash; 2025 Q1 onwards
+- [Completed work](https://github.com/orgs/FreeBSDFoundation/projects/1/views/9).
 
-[Explore scope by area of functionality](https://github.com/orgs/FreeBSDFoundation/projects/1/views/3)
+[Laptop and Desktop Working Group](https://wiki.freebsd.org/LaptopDesktopWorkingGroup) (LDWG) &ndash; community-driven.
 
-[Laptop and Desktop Working Group - (community owned)](https://wiki.freebsd.org/LaptopDesktopWorkingGroup)
+## Laptop support and usability (LSU) discussions
 
-[Join the Desktop mailing list](https://lists.freebsd.org/subscription/freebsd-desktop)
+In March 2025, the Foundation began threads for eight of the nine key areas: 
 
-[Foundation blog about the Laptop Project](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
+- [[FF-laptop-LSU] Audio Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005618.html)
+- [[FF-laptop-LSU] Graphics Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005619.html)
+- [[FF-laptop-LSU] Hardware Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005617.html)
+- [[FF-laptop-LSU] Power Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005616.html)
+- [[FF-laptop-LSU] Security Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005622.html)
+- [[FF-laptop-LSU] System Management Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005621.html)
+- [[FF-laptop-LSU] User Testing Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005625.html)
+- [[FF-laptop-LSU] WiFi Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005620.html)
 
-# Discussion threads
-We have created discussion threads in the Desktop mailing list for key areas of the project: 
+&ndash; **join us**! Please [subscribe to the Desktop mailing list](https://lists.freebsd.org/subscription/freebsd-desktop).
 
-[[FF-laptop-LSU] Power Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005616.html)
-
-[[FF-laptop-LSU] Hardware Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005617.html)
-
-[[FF-laptop-LSU] Audio Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005618.html)
-
-[[FF-laptop-LSU] Graphics Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005619.html)
-
-[[FF-laptop-LSU] WiFi Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005620.html)
-
-[[FF-laptop-LSU] System Management Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005621.html)
-
-[[FF-laptop-LSU] Security Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005622.html)
-
-[[FF-laptop-LSU] User Testing Discussion Thread](https://lists.freebsd.org/archives/freebsd-desktop/2025-March/005625.html)
-
-Please come and join the discussion!
-
-# FAQs
+## FAQs
 
 ### How much is being invested in this work?
 
